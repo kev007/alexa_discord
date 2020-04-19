@@ -1,4 +1,4 @@
-*.token
+token/
 alexa-rpi/
 avs-device-sdk/
 curl*
