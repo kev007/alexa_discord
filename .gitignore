@@ -1,3 +1,9 @@
+*.token
+alexa-rpi/
+avs-device-sdk/
+curl*
+target*
+
 # Logs
 logs
 *.log
